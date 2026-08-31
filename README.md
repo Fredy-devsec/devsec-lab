@@ -12,30 +12,7 @@ Ele é o meu espaço de prática: cada pasta aqui dentro é um mini-projeto, um 
 
 ---
 
-## 📂 Estrutura atual
 
-### `calcolatore-biglietto-treno/`
-Script em Python que calcula o preço de um bilhete de trem com base nos km e aplica desconto automático se o passageiro for:
-- studente
-- pensionato
-- militare
-
-Esse projeto cobre:
-- `input()` e validação
-- uso de `try/except`
-- lógica de decisão (`if / elif / else`)
-- formatação de saída (`:.2f` euro)
-
-### `scanner-de-portas/`
-(WIP) Planejado: script de segurança para testar portas abertas em um host e simular parte do comportamento de um port scanner.
-
-### `gerador-senha/`
-(WIP) Planejado: gerador de senha segura e aleatória com regras personalizadas.
-
-### `aula-escola/`
-Códigos usados nas aulas de informática (exercícios, testes de lógica, pequenas tarefas de laboratório).
-
----
 
 ## 🎯 Objetivo
 
